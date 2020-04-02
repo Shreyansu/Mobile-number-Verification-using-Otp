@@ -1,0 +1,2 @@
+rootProject.name='Phone Number Verification using Otp'
+include ':app'
